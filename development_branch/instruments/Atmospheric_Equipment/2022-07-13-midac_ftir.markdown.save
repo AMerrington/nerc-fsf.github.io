@@ -1,0 +1,23 @@
+{% include  gallery id = "gallery1"%}
+### Overview
+
+### Units
+
+### Current Loan Schedule
+
+### Calibration Documents
+
+### Tags
+---
+title: "Midac Corporation Open Path FTIR"
+layout: single
+permalink: /instruments/atmospheric_equipment/midac_ftir
+gallery1:
+   - url : /assets/image/240_180.png
+     image_path: /assets/images/240_180.png
+---
+
+{% include gallery id="gallery1"%}
+- Telescope unit
+- Blackbody calibration units
+- PDF of results

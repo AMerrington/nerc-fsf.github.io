@@ -1,0 +1,55 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /
+  - title: "Loans"
+    url: /loans/
+  - title: "Instruments"
+    url: /instruments/
+  - title: "Training"
+    url: /training/
+  - title: "Resources"
+    url: /resources/
+  - title: "Impact"
+    url: /impact/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  
+loans:
+   - title: Loans
+     url: /loans/
+     children:
+      - title: "Loan FAQ"
+        url: /loans/loans_faq/
+      - title: "Loan Application Forms"
+        url: /loans/application_forms/
+      - title: "Loan Reporting"
+        url: /loans/reporting_forms/
+
+instruments:
+   - title: instruments
+     url: /instruments/
+   - title: Field Spectrometers
+     children:
+        - title: Analytical Spectral Devices FieldSpec 3
+          url: /instruments/field_spectroradiometers/asd_fs3
+        - title: Spectra Vista Corporation Hr-1024i
+          url: /instruments/field_spectroradiometers/svc
+   - title: Atmospheric Monitoring Equipment
+     children:
+        - title: Midac Corporation Open Path FTIR
+          url: /instruments/atmospheric_equipment/midac_ftir
+        - title: Spectral Atmospheric Suite
+          url: /instruments/atmospheric_equipment/sas
+        - title: SolarLight µTopsII Sunphotometer
+          url: /instruments/atmospheric_equipment/solarlight_microtops
+        - title: Cimel Electronique Sun-Sky-Lunar Photometer
+          url: /instruments/atmospheric_equipment/cimel_sslphotometer
+          
+        

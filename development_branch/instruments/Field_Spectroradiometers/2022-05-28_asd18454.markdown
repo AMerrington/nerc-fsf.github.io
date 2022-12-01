@@ -1,0 +1,12 @@
+---
+title: "ASD FieldSpec 3"
+layout: single
+permalink: /instruments/field_spectroradiometers/asd_fs3
+gallery1:
+  - url: /assets/images/240_180.png
+    image_path: /assets/images/240_180.png
+---
+{% include gallery id="gallery1"%}
+Serial numbers listed here \n
+- Test
+- Test
