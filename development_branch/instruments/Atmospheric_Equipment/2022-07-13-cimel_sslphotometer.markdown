@@ -40,7 +40,7 @@ Internal NiHM battery for optical head with external 12V battery for robot motor
 
 ## Units
 
- Model and AERONET Serial Number | Avaliability | Calibration Status and Documents | Location and NASA AERONET Page 
+ Model and AERONET Serial Number | Availability | Calibration Status and Documents | Location and NASA AERONET Page 
  --------------------------------| :----------: | -------------------------------- | ------------------------------ 
  Cimel 318-2-T #366              |   🟥        | Undergoing repair and calibration | N/A, [#366](https://aeronet.gsfc.nasa.gov/cgi-bin/data_display_aod_v3?site=Loch_Leven&nachal=2&level=1&place_code=10)
  Cimel 318N-EBS9 #655            |   🟨        | Final calibration checks          | N/A, [#655](https://aeronet.gsfc.nasa.gov/cgi-bin/data_display_aod_v3?site=Edinburgh&nachal=2&level=1&place_code=10) 
