@@ -1,7 +1,7 @@
 ---
 title: MicaSense Multispectral Imagers
 layout: single
-permalink: /instruments/atmospheric_equipment/cimel_sslphotometer
+permalink: /instruments/atmospheric_equipment/MicaSense_Imagers
 gallery1:
    - url: /assets/images/***
      image_path: /assets/images/***
